@@ -1,7 +1,10 @@
 # example_support-qa-qc
 QA & QC issues affecting all phases, dimensions, & theaters of product development
 
-![Debugging is FUN!]([/uploads/70b9899bc2c86f63837c8664e949bd8f/quality-control.3-amigos.png](https://gitlab.com/-/project/17668767/uploads/70b9899bc2c86f63837c8664e949bd8f/quality-control.3-amigos.png))
+![Debugging is FUN!](https://gitlab.com/-/project/17668767/uploads/70b9899bc2c86f63837c8664e949bd8f/quality-control.3-amigos.png)
+
+<img width="838" height="674" alt="quality-control 3-amigos" src="https://github.com/user-attachments/assets/97f0d851-0d26-48b3-8737-b5d3fa0e668b" />
+
 
 QC issues are initially stored here for display on a paired "Quality Control" project board. 
 
