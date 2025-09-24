@@ -10,3 +10,5 @@ QC issues get qualified here BEFORE they are dispatched to the developer repos a
 The teams can use the paired Quality Control project board to report & verify/reproduce QC issues **before** they are dispatched to the developer repos and various Project Boards.  That way, the developer repos can keep the number of QC issues they are dealing with whittled down to the ones actively involved in the scope of their current sprint.  
 
 Other QC issues may be staged for future releases after the current sprint, and can be dealt with as known issues.
+
+![test](./images/quality-control.3-amigos.png)
